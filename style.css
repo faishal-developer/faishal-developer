@@ -8,8 +8,11 @@ body{
 h1{
     font-size: 30px;
 }
-
-section{
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+.flexible{
     display: flex;
     margin-bottom: 150px;
 }
@@ -19,7 +22,7 @@ section{
     padding-left:5%;
 }
 
-.half-width h1 span{
+.orange-color{
     color:#FFAE1A;
 }
 
@@ -46,4 +49,33 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat:no-repeat;
     background-position:right;
+}
+.box-shadow{
+    width:45%;
+    margin:0 3%;
+    padding:10px 3%;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 5px;
+}
+.background{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: 0 center;
+}
+#second-one {
+    border-image: linear-gradient(salmon,tomato);
+    border-image-slice:1 ;
+    border-left:7px solid;
+}
+#first-one{
+    border-image: linear-gradient(blue,skyblue);
+    border-image-slice:1 ;
+    border-left:7px solid;
+}
+
+footer{
+    text-align:center;
+    font-weight:100;
+    font-size:13px;
+
 }
