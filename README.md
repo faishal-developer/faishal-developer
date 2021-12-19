@@ -5,27 +5,15 @@ I am learning web development for 1.5 year. I am fresher but passionate. I creat
 
 # Skills
 ## experties:
-* html
-* css
-* javascript
-* react.js
-* bootstrap
-* error handling and exploaring new libraries
+ *html *css  *javascript
+ *react.js *bootstrap
+ *error handling and exploaring new libraries
 ## familiar with:
-* material-ui
-* tailwind
-* stripe payment gateway
-* firebase
-* express.js
-* react native
-* mongodeb
+ *material-ui  *tailwind
+ *stripe payment gateway *firebase
+ *express.js * react native  *mongodeb
 ## tools:
-* vs code
-* cli tools
-* chrome dev-tools
-* netlify
-* git & github
-* heroky
-* npm
-* figma
-* photoshop
+ *vs code *cli tools
+ *chrome dev-tools *netlify
+ *git & github *heroky
+ *npm  * figma *photoshop
