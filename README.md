@@ -5,13 +5,9 @@ I am learning web development for 1.5 year. I am fresher but passionate. I creat
 
 # Skills
 ## experties:
- *html *css  *javascript
- *react.js *bootstrap
- *error handling and exploaring new libraries
+ JavaScript, Frontend with React, Backend with express.js
 ## familiar with:
- *material-ui  *tailwind
- *stripe payment gateway *firebase
- *express.js * react native  *mongodeb
+ Typescript, Next.js, ERD, Postgresql, Prisma, Bootstrap, C, C++, Data Structures, Algorithm, Problem Solving, Redux Toolkit and RTK query, Git and Github, Functional programming, OOP, mongodb, mongoose, Material Ui, React-Router,Formik
 ## tools:
  *vs code *cli tools
  *chrome dev-tools *netlify
