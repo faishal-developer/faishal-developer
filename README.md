@@ -1,6 +1,6 @@
 ## [my portfolio](https://mdfaishal.netlify.app/)
 # About Me
-I am passionate and dedicated in programming, working in this field for 3 years. I worked in Shadhin tech for 9
+I am passionate and dedicated in programming, working in this field for 3 years. I worked in Shadhin tech for 18
 months. I am highly confident to work with web-technologies and switch technology. Besides i solved more than
 150 problems in codewars,leetcode, and edabit.com for growing logical thinking.Do you need a hardworking, creative and conscientious paralegal to meet your firm’s needs? If so, I can help you. The following is a summary of my qualifications: 
 
